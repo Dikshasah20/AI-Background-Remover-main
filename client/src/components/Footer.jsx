@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="flex-1 border-l border-gray-100 max-sm:hidden">
             &copy; {
                 new Date().getFullYear()
-            } JayaSai Gorre | All rights reserved
+            } Diksha Sah | All rights reserved
         </p>
 
         <div className="flex gap-3">
